@@ -1,5 +1,4 @@
 
-/* Restaurants Page Styles */
 
 .page-header {
     background-color: #e8f5e9;
@@ -11,6 +10,7 @@
   .page-header h1 {
     font-size: 2rem;
     margin-bottom: 0.5rem;
+    margin-top: 5rem;
   }
   
   .page-header p {

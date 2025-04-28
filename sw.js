@@ -18,8 +18,8 @@ const FILES_TO_CACHE = [
    '/cart.css',
   '/contact.css',
   '/main.js',
-  '/offers.css',
-  '/pasta.jpeg'
+  '/offers.css'
+  
   
 
 

@@ -5,12 +5,30 @@ const FILES_TO_CACHE = [
   '/index.html',
   '/menu.html',
   '/restaurants.html',
+  '/restaurants.css',
   '/offers.html',
   '/contact.html',
   '/cart.html',
   '/login.html',
   '/style.css',
   '/script.js',
+  '/auth.css',
+  '/auth.js',
+  '/barn.webp',
+   '/cart.css',
+  '/contact.css',
+  '/main.js',
+  '/offers.css',
+  '/pasta.jpeg',
+  
+
+
+
+
+
+
+
+
  
 ];
 
